@@ -7,7 +7,6 @@
 //
 
 #import "WTYDateTool.h"
-// 新天际啊
 
 @implementation WTYDateTool
 + (id)shareInstance {
