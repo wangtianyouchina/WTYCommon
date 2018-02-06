@@ -40,7 +40,7 @@
 		1C731D0050EE8DC6FCE42800 /* Pods-WTYCommon_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WTYCommon_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-WTYCommon_Example/Pods-WTYCommon_Example.release.xcconfig"; sourceTree = "<group>"; };
 		1E57FAD95EE4F700151651C1 /* Pods_WTYCommon_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WTYCommon_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		253CC974E027BDD0511F868E /* Pods_WTYCommon_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WTYCommon_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		556D3A9BABB7189CA5C55518 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		556D3A9BABB7189CA5C55518 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* WTYCommon_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WTYCommon_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -64,8 +64,8 @@
 		7F2A0E46511FE6298481EC92 /* Pods-WTYCommon_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WTYCommon_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WTYCommon_Tests/Pods-WTYCommon_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B599E428961D7DEB8AE19C4F /* Pods-WTYCommon_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WTYCommon_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WTYCommon_Tests/Pods-WTYCommon_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D49DF8715FBE3D235CB25281 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		F909BEA2D2AE0025D83A73A2 /* WTYCommon.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WTYCommon.podspec; path = ../WTYCommon.podspec; sourceTree = "<group>"; };
+		D49DF8715FBE3D235CB25281 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F909BEA2D2AE0025D83A73A2 /* WTYCommon.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WTYCommon.podspec; path = ../WTYCommon.podspec; sourceTree = "<group>"; };
 		FFEF08BDE707D3471BCD54BB /* Pods-WTYCommon_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WTYCommon_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WTYCommon_Example/Pods-WTYCommon_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "WTYDateTool.h"
 
 FOUNDATION_EXPORT double WTYCommonVersionNumber;
 FOUNDATION_EXPORT const unsigned char WTYCommonVersionString[];
