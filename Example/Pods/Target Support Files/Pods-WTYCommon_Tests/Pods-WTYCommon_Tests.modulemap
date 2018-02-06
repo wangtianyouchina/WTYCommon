@@ -1,0 +1,6 @@
+framework module Pods_WTYCommon_Tests {
+  umbrella header "Pods-WTYCommon_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module WTYCommon {
+  umbrella header "WTYCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}

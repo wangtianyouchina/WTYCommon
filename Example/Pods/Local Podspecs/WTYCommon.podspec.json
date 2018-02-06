@@ -1,0 +1,22 @@
+{
+  "name": "WTYCommon",
+  "version": "0.1.0",
+  "summary": "A short description of WTYCommon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wang.tianyou/WTYCommon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wang.tianyou": "wangtianyouchina@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wang.tianyou/WTYCommon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WTYCommon/Classes/**/*"
+}
