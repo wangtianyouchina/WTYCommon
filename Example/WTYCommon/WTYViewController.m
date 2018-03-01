@@ -7,7 +7,8 @@
 //
 
 #import "WTYViewController.h"
-#import "WTYPathManager.h"
+#import <WTYCommon/WTYZhengZe.h>
+#import <WTYCommon/UIColor+ZDCategoryColor.h>
 @interface WTYViewController ()
 
 @end
@@ -16,6 +17,8 @@
 
 - (void)viewDidLoad
 {
+    
+    
     [super viewDidLoad];
 
 }

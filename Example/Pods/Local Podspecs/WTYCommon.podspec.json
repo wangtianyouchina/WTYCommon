@@ -19,10 +19,5 @@
     "ios": "8.0"
   },
   "source_files": "WTYCommon/Classes/**/*",
-  "frameworks": "UIKit",
-  "dependencies": {
-    "AFNetworking": [
-      "~> 2.3"
-    ]
-  }
+  "frameworks": "UIKit"
 }
