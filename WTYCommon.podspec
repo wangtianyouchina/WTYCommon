@@ -31,6 +31,22 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'WTYCommon/Classes/**/*'
+
+  s.subspec 'Category' do |ss|
+  ss.ios.deployment_target = '8.0'
+
+  ss.public_header_files = 'WTYCommon/Classes/Category/**/*.h'
+  ss.source_files =  'WTYCommon/Classes/Category/**/*'
+
+  end
+
+  s.subspec 'Tool' do |ss|
+  ss.ios.deployment_target = '8.0'
+
+  ss.public_header_files =  'WTYCommon/Classes/Tool/**/*.h'
+  ss.source_files =   'WTYCommon/Classes/Tool/**/*'
+
+  end
   
   # s.resource_bundles = {
   #   'WTYCommon' => ['WTYCommon/Assets/*.png']
