@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WTYCommon'
-  s.version          = '0.3.1'
+  s.version          = '0.3.2'
   s.summary          = 'ios 基础库'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'WTYCommon/Classes/**/*'
+#s.source_files = 'WTYCommon/Classes/**/*'
 
   s.subspec 'Category' do |ss|
   ss.ios.deployment_target = '8.0'
