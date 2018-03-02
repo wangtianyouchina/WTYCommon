@@ -162,6 +162,7 @@
 		DED9AE33B24B462D4B44FE94383B35F4 /* EXPMatchers+respondTo.h in Headers */ = {isa = PBXBuildFile; fileRef = 158CEFBA77071AB835E435120F4CE616 /* EXPMatchers+respondTo.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DF883524C3F35145D74166C01BCFCFC3 /* EXPMatchers+beKindOf.m in Sources */ = {isa = PBXBuildFile; fileRef = C04E3E80E2CD18DEAE104F67CE80B85A /* EXPMatchers+beKindOf.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		E0CCC8B42EEB1A0467093A5D717B64C1 /* Pods-WTYCommon_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4650384C638A9BE2C2E101BD66449687 /* Pods-WTYCommon_Tests-dummy.m */; };
+		E199383A2048F2C000B04896 /* WTYCommonMacro.h in Headers */ = {isa = PBXBuildFile; fileRef = E19938392048F2C000B04896 /* WTYCommonMacro.h */; };
 		E233F5CF4BF16CFB539804C4E995C355 /* EXPMatchers+beLessThan.h in Headers */ = {isa = PBXBuildFile; fileRef = F2D3A79E58CE53867199D68A7690BE0C /* EXPMatchers+beLessThan.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E2FCD7B1134BD8B596850E331ED62519 /* UIView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = DE5062DE2B0A3142CF4573975454DE90 /* UIView+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E3355DB3F63F6FE79FD8DD6188B0B3A4 /* EXPMatchers+contain.h in Headers */ = {isa = PBXBuildFile; fileRef = F6ACA95F6EDBB1752AADF70C323E1E5F /* EXPMatchers+contain.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -429,6 +430,7 @@
 		DE5062DE2B0A3142CF4573975454DE90 /* UIView+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		DF4BD2050ABE1205D1B1A164803A18DA /* EXPMatchers+beKindOf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beKindOf.h"; path = "Expecta/Matchers/EXPMatchers+beKindOf.h"; sourceTree = "<group>"; };
 		E16BA1452347625AFB3B01410B7AF869 /* UIImage+ZDCategoryImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ZDCategoryImage.m"; sourceTree = "<group>"; };
+		E19938392048F2C000B04896 /* WTYCommonMacro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WTYCommonMacro.h; sourceTree = "<group>"; };
 		E1D3B7139529C87E6987772A91BFF3EF /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		E3C420A50644FEC1E4088D2A21B69600 /* Expecta-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Expecta-dummy.m"; sourceTree = "<group>"; };
 		E42AB63F84DC20AD246EB8FFA3EFEF2C /* SPTSharedExampleGroups.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SPTSharedExampleGroups.m; path = Specta/Specta/SPTSharedExampleGroups.m; sourceTree = "<group>"; };
@@ -822,6 +824,7 @@
 				D77D06E5A50912C8005738AF9AE7FEE7 /* WTYPathManager.m */,
 				D95ACE29B208579BC790B9F9A7326ED5 /* WTYZhengZe.h */,
 				1542E61F5DC94AB73F4472E892B893A9 /* WTYZhengZe.m */,
+				E19938392048F2C000B04896 /* WTYCommonMacro.h */,
 			);
 			name = Tool;
 			path = WTYCommon/Classes/Tool;
@@ -1099,6 +1102,7 @@
 				3E190D8E9DAC9C0C5426BAD2209FEDAB /* NSString+ZDMD5.h in Headers */,
 				6083FD9B3645E700AD994E5C35E32D5A /* UIColor+ZDCategoryColor.h in Headers */,
 				8C5B556E88EF325A6B41CA7EB370E42E /* UIImage+color.h in Headers */,
+				E199383A2048F2C000B04896 /* WTYCommonMacro.h in Headers */,
 				1DA0B7B9F424483D3217DFF32DAD7CD8 /* UIImage+ZDCategoryImage.h in Headers */,
 				D15BFA9C91834604A8E2B213B52D3C48 /* UIView+Basic.h in Headers */,
 				E2FCD7B1134BD8B596850E331ED62519 /* UIView+Extension.h in Headers */,
